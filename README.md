@@ -24,6 +24,7 @@ e manipulação de arquivos, contendo as seguintes funções</p>
     <li>And more</li> 
 </ul>
 
+## DEV'S
 
 | [<img src="https://avatars.githubusercontent.com/u/69050146?v=4" width=250><br><sub>Bruno L. (@brlacerra)</sub>](https://github.com/futoibrunao) |
 | :---: |
