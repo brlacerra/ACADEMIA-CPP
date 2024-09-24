@@ -26,5 +26,6 @@ e manipulação de arquivos, contendo as seguintes funções</p>
 
 ## DEV'S
 
-| [<img src="https://avatars.githubusercontent.com/u/69050146?v=4" width=250><br><sub>Bruno L. (@brlacerra)</sub>](https://github.com/futoibrunao) | [<img src="https://avatars.githubusercontent.com/u/69050146?v=4" width=250><br><sub>Diogo R. (@diogo.rloureiro)</sub>](https://github.com/futoibrunao) |
-| :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/69050146?v=4" width=500><br><sub>Bruno L. (@brlacerra)</sub>](https://github.com/futoibrunao) | //[<img src="https://avatars.githubusercontent.com/u/69050146?v=4" width=500><br><sub>Diogo R. (@diogo.rloureiro)</sub>](https://github.com/futoibrunao) |
+//| :---: | :---: |
+| :---: |
